@@ -112,3 +112,83 @@ table {
 .col-12 {
     max-width: 100%;
 }
+
+/* --------------------------------------------------------------------------------------------- */
+/* CLASSES */
+/* --------------------------------------------------------------------------------------------- */
+
+.align-center {
+    align-items: center;
+}
+
+.align-end {
+    align-items: flex-end;
+}
+
+.align-start {
+    justify-content: flex-start;
+}
+
+.border-red {
+    border: 1px solid red;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.flex-basis-100 {
+    flex-basis: 100%;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.justify-around {
+    justify-content: space-around;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-end {
+    justify-content: flex-end;
+}
+
+.justify-start {
+    justify-content: flex-start;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.h100 {
+    height: 100%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.w100 {
+    width: 100%;
+}
